@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="985b0229-046a-4ed4-aefd-dd40960c4fb5">
+  <name>Задача</name>
+  <synonym>
+    <key>ru</key>
+    <value>Задача</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="3b86abc3-d24d-4932-bf32-181af8361c54"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="51445ded-cf3d-4d87-b748-b2d8431c3435"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="71effd83-5d2a-4e17-bd64-efc213c60e50"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="d48e6fd6-3269-41ff-b937-e19842e86fbc"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="3532327a-fd26-4963-95b2-492b6a02aeef"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="d4b5f6a1-30ec-438f-b636-5a871c444640"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="8a41110b-bf41-4801-a945-e927c4287533"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.22</compatibilityMode>
+  <languages uuid="077b540b-5d63-4b6c-98d5-c78fba00f2cd">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Клиенты</catalogs>
+  <catalogs>Catalog.ВидыРабот</catalogs>
+  <documents>Document.ЗаявкаНаОбслуживание</documents>
+  <documents>Document.НарядНаРаботу</documents>
+  <enums>Enum.СтатусыЗаявок</enums>
+  <enums>Enum.СтатусыНарядовНаРаботу</enums>
+  <reports>Report.ОтчётПоЗакрытымЗаявкам</reports>
+</mdclass:Configuration>

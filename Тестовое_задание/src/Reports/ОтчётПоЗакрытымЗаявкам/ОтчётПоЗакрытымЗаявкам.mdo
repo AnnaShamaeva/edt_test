@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6034df6a-009c-4f74-98b6-222a3d94c99b">
+  <producedTypes>
+    <objectType typeId="b0bc7e17-3e91-4a52-916c-df9e682be4dd" valueTypeId="3c7f5cac-94b8-4b94-b0a9-0f5f98e84222"/>
+    <managerType typeId="0b570e4d-2ce2-4955-a8a4-94b213e23e71" valueTypeId="d79a9216-7be4-46a8-a7ce-0ceb6865f7ba"/>
+  </producedTypes>
+  <name>ОтчётПоЗакрытымЗаявкам</name>
+  <synonym>
+    <key>ru</key>
+    <value>Отчёт по закрытым заявкам</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ОтчётПоЗакрытымЗаявкам.Template.ОсновнаяСхемаКомпоновкиДанных</mainDataCompositionSchema>
+  <templates uuid="39cbce74-a0d2-4e33-a972-caf63950020d">
+    <name>ОсновнаяСхемаКомпоновкиДанных</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основная схема компоновки данных</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
