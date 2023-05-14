@@ -37,6 +37,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.КонстантаNew</constants>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.ВидыРабот</catalogs>
   <documents>Document.ЗаявкаНаОбслуживание</documents>
