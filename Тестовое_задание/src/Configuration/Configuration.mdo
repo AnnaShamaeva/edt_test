@@ -38,6 +38,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.ОбщийМодульЛяЛя</commonModules>
+  <constants>Constant.КонстантаNew</constants>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.ВидыРабот</catalogs>
   <documents>Document.ЗаявкаНаОбслуживание</documents>
