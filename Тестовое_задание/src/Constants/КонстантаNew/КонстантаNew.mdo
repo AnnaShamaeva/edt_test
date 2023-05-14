@@ -10,6 +10,7 @@
     <key>ru</key>
     <value>Константа new</value>
   </synonym>
+  <comment>Ля-Ля-Ля</comment>
   <type>
     <types>String</types>
     <stringQualifiers>
